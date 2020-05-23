@@ -1,0 +1,1 @@
+The homebrew recipe for [go-james](https://github.com/pieterclaerhout/go-james)
