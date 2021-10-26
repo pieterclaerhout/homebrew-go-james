@@ -5,8 +5,6 @@ class GoJames < Formula
     sha256 "642252a89b7813e4af849dcbe41fed60a846ca88cf4eb795a6873c7c6b0d53ac"
     version "1.8.1"
 
-    bottle :unneeded
-
     def install
       bin.install "go-james"
     end
